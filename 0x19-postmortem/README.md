@@ -1,4 +1,3 @@
-```markdown
 # Postmortem: The "Fetch Frenzy" Fiasco – When a Dog’s Bad Day Becomes Everyone’s Bad Day
 
 ## 🐾 Issue Summary
@@ -35,6 +34,4 @@
   - **Monitor Feedback:** Set up systems to continually gather and act on user feedback for ongoing improvements.
 
 **In Summary:** The "Fetch Frenzy" debacle was a classic case of a script gone rogue and a design stuck in the past. But thanks to swift action and some creative flair, our dog is back to fetching and leaping, and the game looks fantastic. Here’s to smoother runs and jumps in the future!
-```
 
-Feel free to adjust any specifics to better fit your actual situation or needs!
