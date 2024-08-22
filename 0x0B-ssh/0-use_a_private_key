@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# a ssh project , a sropt that connects you to a user using a private key
+ssh -i ~/.ssh/school ubuntu@18.234.106.46	
